@@ -34,4 +34,4 @@ Fornire insight pratici su come le promozioni influenzano sia i prodotti princip
 Nota: i dati originali non sono inclusi per motivi di privacy.
 Fornire insight pratici su come le promozioni influenzano sia i prodotti principali sia quelli correlati, supportando decisioni di marketing data-driven.
 
-> ⚠️ Nota: i dati originali non sono inclusi per motivi di privacy.
+Nota: i dati originali non sono inclusi per motivi di privacy.
